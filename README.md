@@ -46,7 +46,7 @@ https://arxiv.org/abs/2409.16202
 ```
 @article{zhang2024cjeval,
       title={CJEval: A Benchmark for Assessing Large Language Models Using Chinese Junior High School Exam Data}, 
-      author={Qianwen Zhang and Haochen Wang and Fang Li and Siyu An and Lingfeng Qiao and Liangcai Gao and Di Yin and Xing Sun},
+      author={Qian-Wen Zhang and Haochen Wang and Fang Li and Siyu An and Lingfeng Qiao and Liangcai Gao and Di Yin and Xing Sun},
       year={2024},
       eprint={2409.16202},
       archivePrefix={arXiv},
