@@ -25,7 +25,7 @@ CJEval is a benchmark based on Chinese Junior High School Exam Evaluations. It c
 
 **Table: The overall results of the four question-based tasks under zero-shot settings are summarized below.**
 
-<img src="https://github.com/SmileWHC/CJEval/src/overall_results.png" width="860" />
+<img src="https://github.com/SmileWHC/CJEval/blob/main/src/overall_results.png" width="860" />
 
 ## Deployment
 
